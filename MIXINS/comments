@@ -1,0 +1,8 @@
+http://notmagi.me/the-power-of-lua-and-mixins/
+Mixins can be used for sharing methods between classes, without requiring them to inherit from the same father
+
+Most objects will be made out of hash tables with attribute and method names as keys and attribute values and functions as values
+
+https://github.com/kikito/middleclass/wiki/Mixins
+http://notmagi.me/the-power-of-lua-and-mixins/
+https://news.ycombinator.com/item?id=7540555
