@@ -16,3 +16,5 @@ local graph_2 = adjacency_matrix {
   {1, 0, 1},
   {1, 0, 0},
 }
+
+local graph_4 = graph "a-b>c>a"
