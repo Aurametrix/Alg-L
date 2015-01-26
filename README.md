@@ -6,3 +6,8 @@ tar zxf lua-5.2.2.tar.gz
 cd lua-5.2.2
 make linux test
 oe make macosx test
+
+
+Javascript to Lua translator
+
+https://github.com/wizzard0/js2lua
