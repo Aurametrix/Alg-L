@@ -12,3 +12,8 @@ Lua - lightweight embeddable scripting language
 
 
 [ karpathy-char-rnn Neural Network framework](https://github.com/karpathy/char-rnn)
+
+
+### Interesting programs written in LUA
+
+[DCGAN focused on generative art](https://github.com/robbiebarrat/art-dcgan)
