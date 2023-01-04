@@ -13,6 +13,8 @@ Lua - lightweight embeddable scripting language
 
 [ karpathy-char-rnn Neural Network framework](https://github.com/karpathy/char-rnn)
 
+[Iteresting things about Lua interpreter](https://thesephist.com/posts/lua/)
+
 
 ### Interesting programs written in LUA
 
