@@ -25,3 +25,5 @@ Lua - lightweight embeddable scripting language
 
 + [Raylib](https://www.raylib.com/index.html) - game programming library with bindings to Lua
 + [Moonscript](http://moonscript.org/) - a dynamic scripting language that compiles into Lua
+
++ [CodeGPT](https://github.com/dpayne/CodeGPT.nvim) - ChatGPT plugin
