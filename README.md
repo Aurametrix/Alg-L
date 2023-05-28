@@ -8,6 +8,9 @@ Lua - lightweight embeddable scripting language
     make macosx test
 
 
+
+[Lua - a little language that could](https://matt.blwt.io/post/lua-the-little-language-that-could/)
+
 [Javascript to Lua translator](https://github.com/wizzard0/js2lua)
 
 
