@@ -24,6 +24,8 @@ Lua - lightweight embeddable scripting language
 + [DCGAN](https://github.com/robbiebarrat/art-dcgan), focused on generative art
 + [Z.lua](https://github.com/skywind3000/z.lua),A command line tool which helps you navigate faster by learning your habits
 + [Arcade shooter game](https://github.com/a327ex/BYTEPATH)
++ [MicroLua](https://github.com/MicroLua/MicroLua) - Lua for the RP2040 Microcontroller
++ [eLua](https://eluaproject.net/) -embedded project
 
 + [Tiny](https://minigdx.github.io/tiny/) - a 2D Game Engine in Kotlin Working with Lua
 
