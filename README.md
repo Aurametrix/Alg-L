@@ -18,6 +18,11 @@ Lua - lightweight embeddable scripting language
 
 [Iteresting things about Lua interpreter](https://thesephist.com/posts/lua/)
 
+[Lunatik](https://github.com/luainkernel/lunatik) - framework for scripting the Linux kernel with Lua
+
+
+
+
 
 ### Interesting programs written in LUA
 
