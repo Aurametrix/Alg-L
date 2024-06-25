@@ -38,3 +38,5 @@ Lua - lightweight embeddable scripting language
 + [Moonscript](http://moonscript.org/) - a dynamic scripting language that compiles into Lua
 
 + [CodeGPT](https://github.com/dpayne/CodeGPT.nvim) - ChatGPT plugin
+
++ [React Lus](https://github.com/jsdotlua/react-lua) - React Lua is a comprehensive translation of upstream ReactJS from JavaScript into Lua, and is highly-turned for both performance and correctness.
