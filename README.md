@@ -33,6 +33,7 @@ Lua - lightweight embeddable scripting language
 + [eLua](https://eluaproject.net/) -embedded project
 
 + [Tiny](https://minigdx.github.io/tiny/) - a 2D Game Engine in Kotlin Working with Lua
++ [Modest](https://github.com/esbudylin/modest) - https://github.com/esbudylin/modest
 
 + [Raylib](https://www.raylib.com/index.html) - game programming library with bindings to Lua
 + [Moonscript](http://moonscript.org/) - a dynamic scripting language that compiles into Lua
