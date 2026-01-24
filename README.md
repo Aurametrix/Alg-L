@@ -44,3 +44,4 @@ Lua - lightweight embeddable scripting language
 + [CodeGPT](https://github.com/dpayne/CodeGPT.nvim) - ChatGPT plugin
 
 + [React Lus](https://github.com/jsdotlua/react-lua) - React Lua is a comprehensive translation of upstream ReactJS from JavaScript into Lua, and is highly-turned for both performance and correctness.
++ [Do people use Lua?](https://news.ycombinator.com/item?id=46740347)
