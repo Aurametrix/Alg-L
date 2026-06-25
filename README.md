@@ -45,3 +45,6 @@ Lua - lightweight embeddable scripting language
 
 + [React Lus](https://github.com/jsdotlua/react-lua) - React Lua is a comprehensive translation of upstream ReactJS from JavaScript into Lua, and is highly-turned for both performance and correctness.
 + [Do people use Lua?](https://news.ycombinator.com/item?id=46740347)
+
++ [LiaJIT](https://github.com/LuaJIT/LuaJIT/issues/1475) suntax extensions
+
